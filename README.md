@@ -11,7 +11,6 @@ restitution claire orientée décision métier.
 
 ➡️ **Dashboard en ligne :** https://datastudio.google.com/reporting/02b2f7e6-c90d-4bf0-b129-867db0e5ca75
 
-![Aperçu du dashboard](./screenshot.png)
 <img width="954" height="716" alt="Capture d’écran du 2026-06-30 18-56-01" src="https://github.com/user-attachments/assets/96274745-8ce8-44bb-82b7-fcc457c279e6" />
 
 
